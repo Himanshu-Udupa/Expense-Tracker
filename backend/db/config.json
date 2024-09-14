@@ -1,0 +1,3 @@
+{
+    "connectionString": "mongodb+srv://himanshu:expense@123@expense-tracker.cu2j8.mongodb.net/?retryWrites=true&w=majority&appName=expense-tracker"
+}
